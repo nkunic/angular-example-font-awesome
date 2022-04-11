@@ -1,0 +1,13 @@
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 3rem;
+  padding: 1rem;
+  border: {
+    style: solid;
+    width: 1px;
+    color: black;
+  }
+}
